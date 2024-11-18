@@ -16,7 +16,10 @@ portfolio-website/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling
 ├── script.js        # JavaScript for interactivity
-├── images/          # Images used in the website
+├── images           # Images used in the website
+    ├── resume_img.jpg
+    ├── portfolioImg.png
+    ├── intern_img.png
 ├── README.md        # This file
 
 🎨 Technologies Used
