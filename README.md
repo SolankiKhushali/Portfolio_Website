@@ -4,7 +4,7 @@ This project showcases my skills, projects, and achievements as a developer and 
 
 🌐 Live Preview
 You can view my portfolio live at:
-https://yourusername.github.io/portfolio_website/
+https://solankikhushali.github.io/Portfolio_Website/
 
 🛠️ Features
 Personal bio and introduction.
